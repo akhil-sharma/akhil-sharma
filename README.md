@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhil Sharma</h1>
 <h3 align="center">Backend Software Developer</h3>
 
-- 🔭 I’m currently working on [collaborative_white_board]https://github.com/akhil-sharma/collaborative_white_board)
+- 🔭 I’m currently working on [collaborative_white_board](https://github.com/akhil-sharma/collaborative_white_board)
 
 - 🌱 I’m currently learning **Golang**
 
